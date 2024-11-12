@@ -1,0 +1,73 @@
+﻿Revisão para Atividade Avaliativa do 2º Bimestre
+19/11/2024 - 19h00 até 23h59
+
+1. Definições para Gestão de Projetos. Os objetivos da gestão de projetos para a Engenharia de Software.
+
+  Podemos ver que a gestão de projetos pode se enquadrar em um conjunto de conhecimentos, habilidades, ferramentas e técnicas com o objetivo de auxiliar e caminhar ao lado do projeto do seu início até seu final. 
+
+  Um projeto por sua vez pode ser entendido como um empreendimento temporário para a criação de um produto, serviço entre outros de seus derivados. Vemos que o uso da gestão do projeto traz inúmeros benefícios para que o projeto possa caminhar de maneira correta e que seu resultado final seja positivo, vemos no mercado diferentes maneiras possíveis de efetuar essa gestão de projetos com diferentes tipos na área da gestão clássica e também na gestão ágil, cada maneira terá os seus pontos fortes e fracos, tende o gestor de projetos analisar em seu caso qual deverá atender positivamente de acordo com os seus objetivos e situações. 
+
+  Dentro da gestão clássica é possível citar como exemplo o método do caminho critico, já na gestão ágil podemos citar com exemplo o SCRUM, ambos são maneiras de se administrar o projeto seguindo lado a lado até sua conclusão.
+
+2. Características  de um processo de Operação / Projeto
+
+	Operação não tem claramente a definição de um inicio e um fim. Seu conceito não abrange algo de natureza temporal. Caracteristica marcante, a sua repetibilidade. A estelecer uma rotina é uma propriedade classica de uma operação.
+	
+	Projeto tem claramente o estabelecimento de um escopo, bem como, possui um data de inicio e uma data de término. Seu escopo não exibe repetibilidade, é algo muitas vezes inédito e único.
+	
+	Gestão de produção de projeto empurrada: a partir de uma data de inicio são calculadas e estabelecidas as metas de prazo.
+	
+	Gestão de produção de projetos puxada: fixa o norte de entrega na data limite, data final. Todas as atividades são planejadas para que sejam entregues até a data final.
+	
+3. O PMBOK  (Project Management Body of Knowledge) desenvolvido inicialmente em 1987, e ao longo dos anos aperfeiçoado, é uma referência básica para Conjunto de Conhecimentos em Gerenciamento de Projetos.
+
+	O guia PMBOK possui importantes conhecimentos a cerca das etapas e das responsabilidades da gestão de projetos.
+	
+	O PMBOK ele permite que qualquer natureza de projeto possa ser gerenciada aplicando conceitos e processos semelhantes.
+
+4. De acordos com as definições do PMI, os processos de gerenciamento de projetos são agrupados em 5 grupos:
+
+    I. Processos de Monitoramento e Controle
+    II. Processos de Iniciação
+    III. Processos de Encerramento
+    IV. Processos de  planejamento
+    V. Processos de Execução
+
+5. Definições de gerenciamento de projetos. Os objetivos de gerenciarmos projetos:
+
+Vemos que o gerenciamento de projetos pode ser entendido como uma aplicação de conhecimento, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender aos seus requisitos, estabelecendo os objetivos de maneira clara e alcançáveis, identificando as necessidades, balanceando as demandas conflitantes de qualidade, escopo, tempo e custo e adaptando as especificações referentes aos planos, abordagens e expectativas das partes interessadas desse projeto.
+
+
+6.São considerados elementos de um projeto
+
+        Objetivo
+        Complexidade
+        Unicidade
+        Incerteza
+        Natureza Temporária
+        Ciclo de Vida
+
+7. É correto afirmar que a ferramenta Program Evaluation and Review Technique, ou Técnica de Avaliação e Revisão de Programas, conhecida popularmente como Rede PERT: É atualmente usada em projetos cujas estimativas de tempo não podem ser previstas com certeza, obrigando ao uso de conceitos estatísticos.
+
+
+8. Os princípios do manifesto ágil são:
+
+    * Indivíduos e interações são mais importantes que processos e ferramentas.
+	
+    * Software funcionando é mais importante do que documentação completa e detalhada.
+    
+	* Colaboração com o cliente é mais importante do que negociação de contratos.
+	
+    * Adaptação a mudanças é mais importante do que seguir o plano inicial.
+
+9. Métodos Ágeis
+
+Dentre diversas metodologias ágeis que podemos encontrar o SCRUM é considerado uma delas, nessa famosa metodologia em questão vemos que o objetivo é fornecer um processo conveniente para projetos e desenvolvimento, suas características de operação por maioria envolve equipes pequenas, pequenas reuniões matinais curtas para falar sobre suas tarefas e status, requisitos poucos estáveis que podem ser alterados ao longo do desenvolvimento com iterações curtas para promover visibilidade e pequenas entregas ao cliente.
+
+Uma outra metodologia seria a Crystal, onde a mesma faz parte de um conjunto de metologias, onde seu foco é em projetos pequenos com uma equipe de até 6 pessoas, com o foco na comunicação, as especificações do projeto são usando quadros públicos visíveis de maneira informal, onde os requisitos são feitos usando o caso de uso sendo feitos com tarefas com processos para sua execução, onde as entregas são feitas em períodos mês a mês
+
+Outra metodologia que podemos encontrar é a FDD (Feature Driven Development), tem seu foco no método ágil e adaptativo com seu foco nas fases de desenho e contrução interagindo com outras metodologias, seu desenvolvimento é iterativo com entregas frequentes e tangíveis para o cliente com uma ciência de que os requisitos podem ter alterações de acordo com as necessidades do mercado.
+
+10. Governança de TI e qual a sua relação com a elaboração do PDI - Plano Diretor de Informática.
+
+Vemos que a Governança de TI é vista como um conjunto de práticas, padrões e relacionamentos estruturados, assumidos por executivos, gestores, técnicos e usuários de TI de uma organização, com a finalidade de garantir controles efetivos, ampliar os processos de segurança, minimizar os riscos, ampliar o desempenho, otimizar a aplicação de recursos, reduzir os custos, suportar as melhores decisões e consequentemente alinhar TI aos negócios. É possível identificar que o PDI encontra-se dentro da governança de TI onde seu foco é projetar as necessidades de serviço de informática na empresa e a maneira recomendada para atendê-las, tendo em consideração o atual estado da arte da tecnologia. Com o plano diretor de informática teremos como justificar os critérios de levantamento, os dados levantados, suas projeções em termos de equipamento e de necessidade, para que a empresa possa continuar rodando ao longo de um período de tempo com as atualizações necessárias para que isso ocorra.
